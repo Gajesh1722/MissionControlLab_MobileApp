@@ -1,0 +1,13 @@
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\MissionControlLab.exe.config
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\MissionControlLab.exe
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\MissionControlLab.pdb
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.csprojResolveAssemblyReference.cache
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.Properties.Resources.resources
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.csproj.GenerateResource.Cache
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.exe
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.pdb
+G:\Mobile App\MissionControlLab\MissionControlLab\obj\Debug\MissionControlLab.Form1.resources
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\GMap.NET.Core.dll
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\GMap.NET.WindowsForms.dll
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\GMap.NET.Core.xml
+G:\Mobile App\MissionControlLab\MissionControlLab\bin\Debug\GMap.NET.WindowsForms.xml
